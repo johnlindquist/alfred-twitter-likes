@@ -1,0 +1,19 @@
+{
+  "name": "user.workflow.5EF09677-1347-48DA-A527-657A3261544A",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.14.0",
+    "dotenv": "^8.2.0",
+    "jsonfile": "^6.0.1",
+    "node-fetch": "^2.6.0",
+    "twitter": "^1.7.1"
+  }
+}
